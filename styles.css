@@ -3,10 +3,13 @@ body {
 }
 
 h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 54px;
     text-align: center;
 }
 
-h3 {
+.header-class {
+    font-family: 'Abril Fatface', cursive;
     text-align: center;
 }
 
@@ -17,5 +20,12 @@ div {
 img {
     /* padding: 50px; */
     border: aqua 5px solid;
-    margin: 50px;
+    margin: 25px;
+    border-radius: 260px;
+}
+
+form {
+    border: aqua 5px solid;
+    border-radius: 5px;
+    padding: 15px;
 }
