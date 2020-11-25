@@ -1,0 +1,21 @@
+body {
+    background-color: ghostwhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    /* padding: 50px; */
+    border: aqua 5px solid;
+    margin: 50px;
+}
