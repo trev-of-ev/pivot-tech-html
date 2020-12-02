@@ -1,31 +1,42 @@
+@media (min-width: 768px) {
+	img {
+		height: 250px;
+		width: 250px;
+	}
+
+	h1 {
+		color: red;
+		font-size: 20px;
+		background-color: green;
+	}
+}
+
 body {
-    background-color: ghostwhite;
+	background-color: ghostwhite;
 }
 
 h1 {
-    font-family: 'Abril Fatface', cursive;
-    font-size: 54px;
-    text-align: center;
+	font-family: 'Abril Fatface', cursive;
+	font-size: 54px;
+	text-align: center;
 }
 
 .header-class {
-    font-family: 'Abril Fatface', cursive;
-    text-align: center;
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
 }
 
 div {
-    text-align: center;
+	text-align: center;
 }
 
 img {
-    /* padding: 50px; */
-    border: aqua 5px solid;
-    margin: 25px;
-    border-radius: 260px;
+	border: aqua 5px solid;
+	margin: 25px;
 }
 
 form {
-    border: aqua 5px solid;
-    border-radius: 5px;
-    padding: 15px;
+	border: aqua 5px solid;
+	border-radius: 5px;
+	padding: 15px;
 }
